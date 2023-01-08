@@ -4,7 +4,7 @@ import Container from './styled'
 export default function Banner() {
   return (
     <Container>
-        <div id='banner'></div>
+        <h1>BANNER</h1>
     </Container>
   )
 }

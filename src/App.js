@@ -1,13 +1,15 @@
 import React from 'react';
 import './App.css';
 import Banner from './components/banner';
+import Footer from './components/footer';
 import Header from './components/header';
 
 function App() {
   return (
     <>
-    <Header />
-    <Banner />
+      <Header />
+      <Banner />
+      <Footer />
     </>
   );
 }

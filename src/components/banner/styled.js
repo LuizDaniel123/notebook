@@ -1,10 +1,15 @@
-import styled, { StyledComponent } from "styled-components";
+import styled from "styled-components";
 
-const Container = styled.banner`
-    div#banner {
-        background-color: #505050;
-        height: 10rem;
-        width: 100%;
+const Container = styled.div`
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30rem;
+    width: 100%;
+
+    h1 {
+        
     }
 `;
 
