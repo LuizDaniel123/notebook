@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const Container = styled.header`
+    background-color: aqua;
     align-items: center;
     display: flex;
     justify-content: space-between;
